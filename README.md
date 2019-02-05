@@ -6,6 +6,10 @@ Here I'll be storing the information that I've gathered. It's mainly for me but 
 
 ## Topics
 
+### Business
+
+* [metrics](metrics.md)
+
 ### Databases
 
 * [Postgres](postgres.md)
