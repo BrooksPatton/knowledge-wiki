@@ -8,6 +8,7 @@ Here I'll be storing the information that I've gathered. It's mainly for me but 
 
 ### Business
 
+* [management and leadership](management_and_leadership.md)
 * [metrics](metrics.md)
 
 ### Databases
