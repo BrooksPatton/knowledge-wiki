@@ -4,13 +4,6 @@ I know this isn't really a wiki. But the GitHub wiki didn't allow me to edit thi
 
 Here I'll be storing the information that I've gathered. It's mainly for me but I hope it'll be helpful for everyone!
 
-## Topics
+The wiki is being read and created either on github editor or though [vimwiki](https://github.com/vimwiki/vimwiki).
 
-### Business
-
-* [management and leadership](management_and_leadership.md)
-* [metrics](metrics.md)
-
-### Databases
-
-* [Postgres](postgres.md)
+The first page can be found at [index.md](index.md)
