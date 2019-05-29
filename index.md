@@ -2,6 +2,6 @@
 
 ## Topics
 
-* [Programming](programming)
+* [Programming](programming.md)
 * [Quotes](quotes)
 * [Time management](time_management)
