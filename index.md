@@ -2,5 +2,6 @@
 
 ## Topics
 
-* [Time management](time_management)
+* [Programming](programming)
 * [Quotes](quotes)
+* [Time management](time_management)
